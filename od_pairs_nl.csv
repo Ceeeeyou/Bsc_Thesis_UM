@@ -1,0 +1,48 @@
+region,od_label,start,end,dem,stratum_region_relief,stratum_length,stratum_network,notes
+amsterdam,AMS_Schiphol-Cargo-to-Westpoort-Port,52.30000 4.76500,52.40300 4.81600,ahn3,flat,medium,mixed,Air cargo hub to seaport - classic freight leg
+amsterdam,AMS_SchipholLogisticsPark-to-AalsmeerFlower,52.28000 4.75667,52.259179 4.778312,ahn3,flat,short,mixed,Logistics park to flower auction - short feeder
+amsterdam,AMS_Westpoort-to-CityCentre-Dam,52.40300 4.81600,52.37300 4.89200,ahn3,flat,medium,urban_grid,Port to dense canal-ring centre - signal heavy
+amsterdam,AMS_Schiphol-to-Amsterdam-Zuidoost,52.30000 4.76500,52.31200 4.94700,ahn3,flat,long,mixed,Airport to SE business district - ring-road choice
+amsterdam,AMS_Sloterdijk-to-Diemen,52.38900 4.83700,52.33900 4.96200,ahn3,flat,medium,mixed,Rail/industrial hub to eastern logistics
+amsterdam,AMS_CentraalStation-to-RAI,52.37900 4.90000,52.34100 4.89100,ahn3,flat,short,urban_grid,Centre to convention centre - pure urban grid
+amsterdam,AMS_Schiphol-to-Hoofddorp-Industrial,52.30000 4.76500,52.30200 4.68900,ahn3,flat,short,mixed,Airport to nearby industrial estate
+amsterdam,AMS_Westpoort-to-Schiphol-Cargo,52.40300 4.81600,52.30000 4.76500,ahn3,flat,medium,motorway,Port to airport via A4/A5 - motorway dominant
+rotterdam,ROT_Maasvlakte-to-CityCentre,51.95200 4.05000,51.92200 4.47900,srtm,flat,long,motorway,Deep-sea port to city - long motorway haul A15
+rotterdam,ROT_Botlek-to-Alexandrium-Retail,51.88500 4.28000,51.947946 4.555933,ahn3,flat,long,mixed,Petrochemical port to retail hub
+rotterdam,ROT_Waalhaven-to-CentralStation,51.89800 4.42000,51.92500 4.47000,ahn3,flat,short,urban_grid,Inner port to central station - urban
+rotterdam,ROT_Rotterdam-to-DenHaag-Centre,51.92200 4.47900,52.08000 4.32500,ahn3,flat,long,motorway,Inter-city A13 corridor - two major cities
+denhaag,DH_DenHaag-Centre-to-Forepark,52.08000 4.32500,52.06857 4.39019,ahn3,flat,short,urban_grid,Government centre to business park
+denhaag,DH_Scheveningen-Harbour-to-Ypenburg,52.10200 4.27200,52.04300 4.38400,ahn3,flat,medium,mixed,Coastal harbour to industrial Ypenburg
+rotterdam,ROT_Vlaardingen-to-Waalhaven,51.91200 4.34200,51.89800 4.42000,ahn3,flat,medium,mixed,Industrial town to port basin
+denhaag,DH_DenHaag-to-Delft-TUcampus,52.08000 4.32500,52.00200 4.37300,ahn3,flat,medium,mixed,City to tech-campus delivery leg
+utrecht,UTR_Lage-Weide-Port-to-Centraal,52.11000 5.05500,52.08900 5.11000,ahn3,mild,short,urban_grid,Inland port industrial to centre
+utrecht,UTR_Centraal-to-Lunetten-Industrial,52.08900 5.11000,52.06200 5.13500,ahn3,mild,short,mixed,Centre to southern industrial
+utrecht,UTR_Lage-Weide-to-Nieuwegein-Business,52.11000 5.05500,52.02900 5.09600,ahn3,mild,medium,mixed,Port to satellite business town
+utrecht,UTR_Utrecht-to-Amersfoort-Industrie,52.08900 5.11000,52.16200 5.40300,ahn3,mild,long,motorway,Inter-city A28 - mild ridge relief
+utrecht,UTR_DeMeern-to-Utrecht-Science-Park,52.08200 5.02500,52.08500 5.17600,ahn3,mild,medium,mixed,Western suburb to university/hospital campus
+utrecht,UTR_Centraal-to-Overvecht-Retail,52.08900 5.11000,52.11429 5.10913,ahn3,mild,short,urban_grid,Centre to northern retail district
+utrecht,UTR_Nieuwegein-to-Houten-Industrie,52.02900 5.09600,52.02800 5.16800,ahn3,mild,medium,mixed,Cross-suburb industrial leg
+eindhoven,EIN_Airport-to-HighTechCampus,51.45147 5.38626,51.41100 5.45600,ahn3,mild,medium,mixed,Airport to High Tech Campus - flagship Brainport leg
+eindhoven,EIN_Centraal-to-Ekkersrijt-Industrial,51.44300 5.47890,51.501357 5.48820,ahn3,mild,medium,mixed,Centre to large industrial estate Son
+eindhoven,EIN_HighTechCampus-to-Centraal,51.41100 5.45600,51.44300 5.47890,ahn3,mild,short,mixed,Campus to station - mass+grade test
+eindhoven,EIN_Eindhoven-to-Helmond,51.44300 5.47890,51.48058 5.65377,ahn3,mild,long,mixed,Inter-city A270/N270 vs urban Geldrop - route choice
+eindhoven,EIN_Acht-Industrial-to-Veldhoven,51.47593 5.41861,51.41800 5.40300,ahn3,mild,medium,mixed,Northern industrial to southern Veldhoven (ASML area)
+eindhoven,EIN_Centraal-to-Nuenen,51.44300 5.47890,51.47200 5.55000,ahn3,mild,medium,mixed,Centre to suburban Nuenen
+eindhoven,EIN_Veldhoven-ASML-to-Airport,51.40491 5.41666,51.45147 5.38626,ahn3,mild,short,mixed,Major employer to airport - short feeder
+eindhoven,EIN_Best-to-Geldrop,51.50800 5.39400,51.42100 5.56100,ahn3,mild,long,mixed,Cross-region diagonal - max route diversity
+maastricht,MAA_Beatrixhaven-Port-to-HealthCampus,50.87300 5.71500,50.83780 5.71750,srtm,hilly,medium,mixed,Industrial harbour to Brightlands health campus
+maastricht,MAA_HealthCampus-to-Centre-Markt,50.83780 5.71750,50.85100 5.68800,srtm,hilly,short,urban_grid,Campus to medieval centre - river crossing
+maastricht,MAA_Centre-to-Maastricht-Airport,50.85100 5.68800,50.916797 5.770309,srtm,hilly,long,mixed,City to MAA airport (Beek) - climbs plateau
+maastricht,MAA_Beatrixhaven-to-Maastricht-Airport,50.87300 5.71500,50.916797 5.770309,srtm,hilly,medium,mixed,Industrial to airport cargo - plateau climb
+maastricht,MAA_Maastricht-to-Valkenburg,50.85100 5.68800,50.86500 5.83100,srtm,hilly,long,mixed,City to hilly tourist town - real gradient
+maastricht,MAA_HealthCampus-to-Heer-Industrie,50.83780 5.71750,50.84100 5.72900,srtm,hilly,short,mixed,Campus to eastern industrial - hill slope
+maastricht,MAA_Maastricht-to-Heerlen,50.85100 5.68800,50.88700 5.97900,srtm,hilly,long,motorway,Inter-city A79 across hill country - max relief
+maastricht,MAA_Centre-to-Gronsveld-Industrie,50.85100 5.68800,50.80743 5.72019,srtm,hilly,medium,mixed,Centre to southern industrial - rolling terrain
+maastricht,MAA_Valkenburg-to-Gulpen,50.86500 5.83100,50.81629 5.89244,srtm,hilly,medium,mixed,Valkenburg to Gulpen across Geul valley - rolling relief
+maastricht,MAA_Gulpen-to-Vaals,50.81629 5.89244,50.77100 6.01700,srtm,hilly,medium,mixed,Gulpen to Vaals climbing toward Vaalserberg plateau
+maastricht,MAA_Maastricht-to-Vaals,50.85100 5.68800,50.77100 6.01700,srtm,hilly,long,mixed,City to NL high point Vaalserberg - max sustained climb
+maastricht,MAA_Valkenburg-to-Heerlen,50.86500 5.83100,50.88700 5.97900,srtm,hilly,medium,mixed,Tourist town to Heerlen basin - ridge crossings
+maastricht,MAA_Meerssen-to-Valkenburg,50.88200 5.75000,50.86500 5.83100,srtm,hilly,short,mixed,Meerssen to Valkenburg - short valley route
+maastricht,MAA_MECC-to-Brusselseport,50.83751 5.71081 ,50.85148 5.66630,srtm,hilly,medium,mixed,Mecc to shopping center Brusselse port
+maastricht,MAA_Gulpen-to-Epen,50.81629 5.89244,50.77612 5.91265,srtm,hilly,short,mixed,Gulpen to Epen - steepest local gradients near border
+maastricht,MAA_Maastricht-to-Margraten,50.85100 5.68800,50.82055 5.82289,srtm,hilly,medium,mixed,City to plateau village - climbs out of Meuse valley
